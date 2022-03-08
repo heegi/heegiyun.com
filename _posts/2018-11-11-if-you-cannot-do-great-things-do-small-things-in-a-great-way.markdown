@@ -1,51 +1,98 @@
 ---
 layout: post
-title:  If you cannot do great things, do small things in a great way
-description:
-date:   2018-11-11 15:01:35 +0300
-image:  '/images/04.jpg'
-tags:   [lifestyle, rest, notes]
+title:  RockX Museum
+image:  '/images/Project3.png'
+tags:   [UX Design, Interaction Design]
+description: Creating the emerging digital experience for museum visitors through a B2C website
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace [Joel Filipe](https://unsplash.com/photos/4NZlogMPIp0) diversity and empowerment.
+### Project Summary
+RockX is a new hybrid music history museum that incorporates both the remote and in-person digital artifacts into the museum visitors’ experiences. The museum is dedicated not only to the history of Rock music but also supporting the new emerging artists/bands.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+For this project, a customer-facing (B2C) website was designed to allow potential visitors to learn about Rock and Roll and create a tour plan for their visit.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+**Project Type** <br>
+Academic interaction design project
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+**Project Duration** <br>
+6 weeks (April - May 2021)
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+**My Role** <br>
+As a team of 3, we created personas and a journey map for one of the personas together. Then, I was tasked to create a medium-fidelity prototype for a B2C website for the RockX museum using Axure.
 
-![Kitchen]({{site.baseurl}}/images/04-1.jpg)
-*Photo by [Joel Filipe](https://unsplash.com/photos/4NZlogMPIp0) on [Unsplash](https://unsplash.com/)*
+### Minimum Viable Scope
+The users of the RockX Website would be able to complete the following tasks:
+- Learn about rock and roll
+  - Experience curated playlists, save, and share
+  - Explore bands/artists as well as musical instruments they used
+  - Explore permanent and special exhibits
+  - Learn about reviews of new bands and touring schedules
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+- Plan a visit to the actual physical facility
+  - Map how to allocate time based on personal interests
+  - Figure out how other people coming with you might best enjoy their visit
+  - Save the plan for later to follow in the RockX mobile app
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+- Apply to have “emerging” bands adopted/promoted through RockX
+- Purchase museum entrance tickets, special event tickets or workshop tickets
 
-### Podcasting
+### Process
+The entire project consisted of four different stages from understanding the users to developing a medium-fidelity prototype.
 
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric "outside the box" thinking. Completely pursue scalable customer service through sustainable [Todd Quackenbush](https://unsplash.com/photos/JJB_K8aCPU4) potentialities.
+![Process]({{site.baseurl}}/images/Process.png)
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or "organic" sources.
+### Personas
+As a team. we created five different personas that would interact with either B2C website, B2C mobile app, or B2E Admin mobile app.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/08.jpg">
-    <img src="/images/05.jpg">
-    <img src="/images/11.jpg">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+![Personas]({{site.baseurl}}/images/Personas.png)
 
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
+### Journey Map
+A user journey map was created for one of our personas, **Mark**, in order to understand how the user would experience the product over time.
 
-Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains. Dramatically engage top-line web services vis-a-vis cutting-edge deliverables.
+![Journey Map 1]({{site.baseurl}}/images/journeymap_1.png)
 
-### Synergistically evolve
+![Journey Map 2]({{site.baseurl}}/images/journeymap_2.png)
 
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
+![Journey Map 3]({{site.baseurl}}/images/journeymap_3.png)
 
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
+### Conceptual Model
+An object-action matrix, object-attributes table, and a prioritization matrix were developed to establish the grammar of the product prior to designing the product.
 
-Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.
+<center><img src="/images/ObjectAction.png" alt="Object action matrix"></center> <br>
+<center><img src="/images/ObjectAttributes.png" alt="Object attributes table"></center> <br>
+<center><img src="/images/Prioritization.png" alt="Prioritization matrix"></center> <br>
+
+### User Flow
+Before developing a prototype, a user flow diagram was created for users' main task with the product: planning the tour and saving it to follow up in the mobile application.
+
+![User Flow Diagram]({{site.baseurl}}/images/B2CUserFlow.jpg)
+
+### Prototype
+The prototype followed the object-oriented design with the major objects of Exhibits, Events, and Tours.
+
+The **home page** features special exhibits and upcoming events, which can be directly added to the the user's tour plan via 'Add to Plan' buttons. There are two action buttons placed on the main cover page, 'Create a Tour' and 'Purchase Tickets', based on the prioritization matrix.
+
+![Home Page]({{site.baseurl}}/images/home_page.png)
+
+On the **Exhibits page** and **Events page**, the user can browse through all of the permanent and special exhibits as well as concerts and workshops that are currently offered at the museum and manually add them to their tour plan.
+
+![Exhibits Page]({{site.baseurl}}/images/exhibits.png)
+![Events Page]({{site.baseurl}}/images/events.png)
+
+On the **Tours page**, users can create a tour plan for their visit based on their interests and preferences. They can also obtain information about ticket prices and purchase their tickets.
+
+![Tours Page]({{site.baseurl}}/images/tours.png)
+
+After creating a tour plan or manually adding the exhibits/events to the plan, users are able to view and edit their tour plan on the **My Tour page** under their profile. It also prompts the users to transfer the tour plan to the mobile application to follow up.
+
+![My Tour Page]({{site.baseurl}}/images/my_visit_plan.png)
+
+You can access the interactive prototype [**here**](https://gx1ci9.axshare.com)!
+
+### Learning
+**1. Keep the grammar of the product in mind while designing the product.**
+
+While prototyping, I found it really helpful to look at the conceptual model and grammar as a guide when I felt overwhelmed or lost with my design. It reminded me of some necessary features/actions that I was missing in the design and make sure of the consistency of language within the design.
+
+**2. Don't focus too much on the details.**
+
+During the design phase, I sometimes found myself spending hours just to decide on which colors or fonts to use for the UI. I learned that it is important to step back and focus more on how the prototype would guide the users through the user flows.

@@ -1,44 +1,61 @@
 ---
 layout: post
-title:  A journey of a thousand leagues begins beneath one’s feet
-date:   2018-11-09 15:01:35 +0300
-image:  '/images/06.jpg'
-tags:   [travel, story, rest]
+title:  Service Dawgs
+image:  '/images/project5.png'
+tags:   [UX Design, UI Design, UX Research]
+description: Designing an event to increase college students' involvement in community service
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace [Hugo Sousa](https://unsplash.com/photos/BghGseQbAkA) diversity and empowerment.
+### Project Summary
+The aim of this project was to tackle the problem of college students' low participation in community service at the University of Washington.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+After user research and ideation, we designed a theoretical on-campus event called Service Dawgs: a fair where registered student organizations (RSOs) that take part in community service can showcase what they do and recruit new members/volunteers and students can find community service opportunities of their interests.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+**Project Type** <br>
+Academic design project with two other classmates
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+**Project Duration** <br>
+3 months (January - March 2019)
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+**My Role** <br>
+I conducterd 3 qualitative interviews with the current students enrolled in the University of Washington. I was mainly responsible for designing an informational website about the event as well as its information architecture.
 
-![House]({{site.baseurl}}/images/03.jpg)
-*Photo by [Hugo Sousa](https://unsplash.com/photos/BghGseQbAkA) on [Unsplash](https://unsplash.com/)*
+### Problem
+> On average, just 26% of all university students typically volunteer - lower than the number among high schoolers.
+> <cite>[Paynter](https://www.fastcompany.com/40575356/college-kids-want-to-save-the-world-just-dont-ask-them-to-volunteer)</cite>
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Although community service is often a requirement in high school, few college students continue to volunteer in university.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+In order to further investigate the reason behind this, qualitative interviews were conducted with 9 undergraduate students at the University of Washington. A recurring issue that students faced was that they didn’t know where to find community service opportunities. Among the students who did participate in community service, a pattern emerged: most students participated in community service through a student club or organization rather than on their own.
 
-### Podcasting
+### Solution
+As a solution, we decided to design a theoretical event called Service Dawgs. For this project, we created user flows, an informational website, a map layout, and a final video storyboard.
 
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric "outside the box" thinking. Completely pursue scalable customer service through sustainable [Jaz King](https://unsplash.com/photos/DOoYFgTQWfs) potentialities.
+#### User Flows
+There are two different types of users that interact with each other: students and community service RSOs. Figures below show the flow of the event from a student's perspective as well as the perspective of an RSO.
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or "organic" sources.
+<center><img src="/images/user-flow-1.png" alt="Student user flow"></center> <br>
 
-![Steps]({{site.baseurl}}/images/05.jpg)
-*Photo by [Jaz King](https://unsplash.com/photos/DOoYFgTQWfs) on [Unsplash](https://unsplash.com/)*
+<center><img src="/images/user-flow-2.png" alt="RSO user flow"></center> <br>
 
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
+#### Informational Website
+The website served as a place where the user is able to acquire more detailed information about the event. It also included the application for community service RSOs to participate in the event. Prior to creating the actual website, an information architecture of the website was made in order to structure information to match user needs.
 
-Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains. Dramatically engage top-line web services vis-a-vis cutting-edge deliverables.
+<center><img src="/images/web-info-arch.png" alt="Information architecture of the website"></center> <br>
 
-### Synergistically evolve
+Then, the website was carefully designed while documenting rationale for all design choices made. The full website can be found [**here**](https://heejiyun.wixsite.com/uwservicedawgs).
 
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
+<center><img src="/images/web-home.png" alt="Home page of the website"></center> <br>
 
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
+### Map
+The map would be given to the user when they come to the event so that they can easily see where specific clubs and organizations are.
 
-Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.
+<center><img src="/images/map.png" alt="Event"></center> <br>
+
+### Learnings
+**1. Design process can be used beyond the web/mobile interfaces.**
+
+During the ideation phase, many of our classmates restricted their design ideas to creating a mobile app. However, the result of our user research was telling us that a mobile app won’t be the best solution to address user needs. Through this project, I learned that the design process can be used to yield many different types of solutions and it is important to focus on what would be the best solution to the problem rather than jumping into conclusion that we are going to make a mobile app that has a specific functionality.
+
+**2. Be conscious about design choices and have rationale behind them.**
+
+As a designer, it is important to consider how every design choice we make can affect user experience with the product and take responsibility for them. I learned that there needs to be rationale behind small design choices, such as shapes and colors of the buttons used in the interface.

@@ -46,7 +46,7 @@ permalink: /tags/
               <h2 class="tag__name" id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
               <div class="tag__counter">
                 <span>{{ site.tags[this_word].size }}</span>
-                <small>{% if site.tags[page.tag].size < 2 %}Article{% else %}Articles{% endif %}</small>
+                <small>{% if site.tags[page.tag].size < 2 %}Project{% else %}Projects{% endif %}</small>
               </div>
             </div>
           </div>
@@ -74,5 +74,3 @@ permalink: /tags/
 
 </section>
 <!-- end tags -->
-
-{% include section-subscribe.html %}
