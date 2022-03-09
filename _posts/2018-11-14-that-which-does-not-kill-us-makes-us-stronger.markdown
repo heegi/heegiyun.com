@@ -94,4 +94,4 @@ The screen design of Pokémon Unite is easy to understand and use, but there is 
 **Is the user guided through the interface or left on their own?** <br>
 Pokémon Unite guides users through the interface very well by providing users an option to view the Help or Details content on many pages throughout the product. However, there are few areas for improvement when it comes to feedback and navigation.
 
-![Evaluation Final Grade]({{site.baseurl}}/images/EvaluationGrade.png)
+![Evaluation Final Grade]({{site.baseurl}}/images/EvaluationGrade.PNG)
