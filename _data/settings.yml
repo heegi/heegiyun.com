@@ -10,8 +10,6 @@ description: This is Heegi's portfolio website.
 # Menu Settings
 menu__settings:
   menu__items:
-    - title: 'Work'
-      url: '/blog/'
     - title: 'About'
       url: '/about/'
     - title: 'Resume'
@@ -22,7 +20,7 @@ menu__settings:
 # Hero Settings
 hero:
   hero__title: Hi, I'm Heegi <br> a UX Researcher <br> based in San Jose, CA
-  hero__description: I'm currently pursuing an M.S. in Human Factors and Ergonomics with a focus on HCI at San Jose State University.
+  hero__description: I recently graduated with an <b>M.S. in Human Factors and Ergonomics</b> with a focus on Human Computer Interaction (HCI) at San Jose State University.
 
 
 #-------------------------------
