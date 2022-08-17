@@ -5,55 +5,38 @@ image:  '/images/Project1.png'
 tags:   [UX Research, Heuristic Evaluation]
 description: Identifying usability issues based on heuristic and design principles
 ---
-### Project Summary
-Pokemon Unite is a strategy multiplayer online battle arena (MOBA) video game released in 2021. What is unique about Pokémon Unite is that it supports a cross-play between the Nintendo Switch and mobile devices, meaning that its interface was designed to serve two different platforms.
+### Summary
+**Pokemon Unite** is a strategy multiplayer online battle arena (MOBA) video game released in 2021. The goal of this *3-month-long* project was to identify usability/design principle violations within the product interface and generate recommendations for each issue. 
 
-The goal of this project was to identify usability/design principles that are violated within the Pokemon Unite interface on Nintendo Switch and generate recommendations for each issue. 
-
-**Project Type** <br>
-Academic heuristic evaluation project (Individual)
-
-**Project Duration** <br>
-3 months (September - December 2021) 
+While it was not part of the course, I have also developed low-fidelity mockups of my main design recommendations using Figma to showcase how these recommendations could be implemented to design.
 
 ### Process
 <center><img src="/images/EvalProcess.png" alt="Evaluation process"></center> <br>
 
-Prior to the evaluation, an appropriate amount of time was spent by the evaluator to get familiarized with the product interface. In addition, user survey and review analysis were used as inquiry methods to obtain information about its users and use cases. Then, principle violations were identified throughout the Pokemon Unite interfaces with recommendations for mitigating each violation.
+Prior to the evaluation, an appropriate amount of time was spent by the evaluator to get familiarized with the product interface. In addition, user survey and review analysis were used to obtain information about its users and use cases. Then, principle violations were identified throughout the Pokemon Unite interfaces with recommendations for mitigating each violation.
 
-### Survey
-An online survey was used to learn about users and their experience with Pokemon Unite. There were a total of 12 participants.
-
-Participants showed varied satisfaction levels with playing Pokémon Unite.
-
-<center><img src="/images/SurveySatisfaction.png" alt="Survey satisfaction result"></center> <br>
+### Understanding Users and Use Cases
+An online survey was conducted to learn about users and their experience with Pokemon Unite. Web reviews were analyzed to identify common patterns in current users' experiences with the interface and validate the survey results from a broader audience.
 
 Based on the issues that users reported and changes they have suggested, it was decided that the evaluation should focus on the following areas:
-- Usability and discoverability of in-game features (i.e. communication tool and surrender vote)
+- Usability and discoverability of in-game features 
 - Learnability of the game
 - Navigation for collecting rewards
 
-### Review Analysis
-Web reviews were analyzed to identify patterns in experiences and issues that current users have with the Pokémon Unite interface and validate the previous survey results from a broader audience.
+### Examples
+Below are some examples of issues found from my hueristic evaluation.
 
-In general, there were more negative comments about the product interfaces than positive comments in both personal and professional reviews. The following issues were commonly discussed in the reviews:
-- Frustration when navigating through the reward system
-- Confusing two main menus
-- Difficulty in communicating with teammates during a match
-- No indication of whether a team is winning or losing throughout the game
-
-### Example Violations
-Below are some examples of principle violations found in the Pokemon Unite interface.
-
-#### Feedback 
+#### Inviting other players to lobby
 ![Lobby Invite]({{site.baseurl}}/images/Lobby_1.png)
 
 ![Invite Other Friends]({{site.baseurl}}/images/Lobby_2.jpg)
 
-In the Lobby, users are able to invite other players to their lobby in order to play the game together. They can easily invite their friends by clicking their profile from their friends list. When users want to invite someone that has not been added as their friends by clicking the Invite Other Friends button, a popup appears as a form of feedback with a Lobby ID. However, this feedback is unclear because it does not perform the intended action nor instruct users what to do next. The only action that users can take after seeing this popup is to close it, which does not help them achieve their goal of inviting other friends. 
+A popup appears when users try to invite players that are not their friends to their lobby; however, it does not perform the intended action nor instruct users what to do next, therefore does not help them achieve their goal of inviting other friends. 
 
-**Recommendation** <br>
-It is recommended that the feedback clearly informs users that they need to share the Lobby ID with other players in order to invite them. Another recommendation is to provide users an option to search for other players and send an invite to the Lobby directly instead of using a 8-digit Lobby ID, which can be difficult to remember.
+**My recommendation** <br>
+
+
+Provide users an option to search for other players and send an invite to the Lobby directly instead of using a 8-digit Lobby ID, which can be difficult to remember.
 
 #### Recognition rather than Recall
 ![Pokemon Page Description]({{site.baseurl}}/images/Recognition_1.jpg)
