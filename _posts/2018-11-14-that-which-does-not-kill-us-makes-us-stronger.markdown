@@ -34,6 +34,7 @@ Below are some examples of issues found from my hueristic evaluation.
 A popup appears when users try to invite players that are not their friends to their lobby; however, it does not perform the intended action nor instruct users what to do next, therefore does not help them achieve their goal of inviting other friends. 
 
 **My recommendation** <br>
+![Invite Other Players](https://user-images.githubusercontent.com/35079851/185207690-42fbb5d0-7c2e-4edc-b14d-e554b01285f8.mp4)
 
 
 Provide users an option to search for other players and send an invite to the Lobby directly instead of using a 8-digit Lobby ID, which can be difficult to remember.
