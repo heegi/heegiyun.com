@@ -19,7 +19,7 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hi, I'm Heegi <br> a UX Researcher <br> based in Oakland, CA
+  hero__title: Hi, I'm Heegi <br> a UX Researcher <br> based in Oakland, CA.
   hero__description: I recently graduated with an <b>M.S. in Human Factors and Ergonomics</b> with a focus in Human-Computer Interaction (HCI) at San Jose State University.
 
 
