@@ -2,7 +2,7 @@
 layout: post
 title:  RockX Museum
 image:  '/images/Project3.png'
-tags:   [UX Design, Interaction Design]
+tags:   [UX/UI Design, Interaction Design]
 description: Creating the emerging digital experience for museum visitors through a B2C website
 ---
 ### Project Summary

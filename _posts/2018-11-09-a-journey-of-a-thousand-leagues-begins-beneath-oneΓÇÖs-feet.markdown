@@ -2,7 +2,7 @@
 layout: post
 title:  Service Dawgs
 image:  '/images/project5.png'
-tags:   [UX Design, UI Design, UX Research]
+tags:   [UX/UI Design, UX Research]
 description: Designing an event to increase college students' involvement in community service
 ---
 ### Project Summary

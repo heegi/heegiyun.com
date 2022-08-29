@@ -3,7 +3,7 @@
 title: Heegi Yun
 logo: # You can add own logo. For example '/images/logo.png'.
 author: Heegi Yun
-description: This is Heegi's portfolio website.
+description: This is Heegi's UX portfolio website.
 
 
 #-------------------------------
@@ -19,8 +19,8 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hi, I'm Heegi <br> a UX Researcher <br> based in San Jose, CA
-  hero__description: I recently graduated with an <b>M.S. in Human Factors and Ergonomics</b> with a focus on Human Computer Interaction (HCI) at San Jose State University.
+  hero__title: Hi, I'm Heegi <br> a UX Researcher <br> based in Oakland, CA
+  hero__description: I recently graduated with an <b>M.S. in Human Factors and Ergonomics</b> with a focus in Human-Computer Interaction (HCI) at San Jose State University.
 
 
 #-------------------------------

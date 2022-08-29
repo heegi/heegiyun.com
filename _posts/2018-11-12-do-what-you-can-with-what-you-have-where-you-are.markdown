@@ -77,10 +77,8 @@ From our usability tests, we identified three major issues that participants oft
 - Have a separate, easily noticeable button for the “Advanced” search feature at the top of the interface, rather than the bottom.
 
 ### Learnings
-**1. Teamwork is essential when conducting a usability testing.**
-
+**1. Teamwork is essential when conducting a usability testing.** <br>
 After our team watched recordings of the usability testing sessions and had a debrief session together, a lot of important observations that I originally missed were revealed. As a team, we were able to validate our observations and interpretations together and produce a stronger report.
 
-**2. Review the scripts and run a pilot study before the actual usability testing session.**
-
+**2. Review and run a pilot study before the actual usability testing session.** <br>
 During our first couple study sessions, we noticed some tasks were redundant or not clearly explained to the participants. Running a pilot study would have been a great idea to avoid the issue we encountered in this project.
