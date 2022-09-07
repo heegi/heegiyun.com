@@ -2,28 +2,34 @@
 layout: post
 title:  Pokémon Unite Console Game
 image:  '/images/Project1.png'
-tags:   [UX Research, Heuristic Evaluation, UX Design]
+tags:   [UX Research, UX Design]
 description: Identifying usability issues based on heuristic and design principles
 ---
-## Summary
-**Pokemon Unite** is a strategy multiplayer online battle arena (MOBA) video game released in 2021. The goal of this *3-month-long* project was to identify usability/design principle violations within the product interface and generate recommendations for each issue. 
+## Overview
+**Pokemon Unite** is a strategy multiplayer online battle arena (MOBA) video game on Nintendo Switch. The goal of this *3-month-long* academic project was to identify usability/design principle violations within the product interface and generate recommendations for each issue. 
 
-While it was not part of the course, I have also developed low-fidelity mockups of my main design recommendations using Figma to showcase how these recommendations could be implemented to design.
+After completion of the course, I developed mid-fidelity mockups using Figma to showcase how these recommendations can be implemented to design. 
+
+<br>
 
 ## Process
 <center><img src="/images/EvalProcess.png" alt="Evaluation process"></center> <br>
 
 First, I conducted user survey and review analysis to learn about users and narrow down the scope of the project. Then, I identified usability issues based on heuristic principles, providing each with actionable design recommendation(s).
 
+<br>
+
 ## Understanding Users and Use Cases
 An online survey was conducted with 12 current users to learn about their experience with Pokemon Unite interfaces. Web reviews were analyzed to identify common patterns in current users' experiences with the interface and validate the survey results from a broader audience.
 
 Based on the findings, I decided to focus my heuristic evaluation on:
-- <mark style="background-color: #FFE599">Usability</mark> and <mark style="background-color: #FFE599">discoverability</mark> of in-game features 
-- <mark style="background-color: #FFE599">Learnability</mark> of the game
-- Navigation for collecting <mark style="background-color: #FFE599">rewards</mark>
+* <mark style="background-color: #FFE599">Usability</mark> and <mark style="background-color: #FFE599">discoverability</mark> of in-game features 
+* <mark style="background-color: #FFE599">Learnability</mark> of the game
+* Navigation for collecting <mark style="background-color: #FFE599">rewards</mark>
 
-## Examples
+<br>
+
+## Sample Issues & Solutions
 
 ### Inviting other players to lobby
 ![Lobby Invite]({{site.baseurl}}/images/Lobby_1.png)
@@ -36,24 +42,36 @@ A popup appears when users try to invite players that are not their friends to t
 
 ![Invite Other Players]({{site.baseurl}}/images/InviteOtherPlayers.gif)
 
-As shown above, provide users an option to search for other players and invite them to the Lobby directly instead of requiring users to remember an 8-digit ID.
+Provide users an option to search for other players and invite them to the Lobby directly instead of requiring users to remember an 8-digit ID.
 
-### Remembering Pokémon Moves
+<br>
+
+### Learning about Pokémon Moves
 ![Pokemon Page Description]({{site.baseurl}}/images/Recognition_1.jpg)
 
-![In Game Description]({{site.baseurl}}/images/Recognition_2.png)
-
-There are lengthy descriptions of different moves available on the Pokémon page; however, there is no explanation of moves at all when users have to choose during the match. This poses a high memory load to users.
+On Pokémon page, there are lengthy descriptions of moves/abilities for each Pokémon; this poses a high cognitive load and makes it difficult for users to learn.
 
 <span style="color: #6fb4ca;">**My recommendation**</span>
 
 ![Pokemon Page with Video Clips]({{site.baseurl}}/images/PokemonMove.gif)
 
-Instead of having a lengthy description for each move on the Pokémon page, have a concise description with a short video clip or graphic of what each move looks like in the game.
+Instead of having a lengthy descriptions, have a concise description with a short video clip of what each move looks like in the game.
+
+<br>
+
+### Remembering Pokémon Moves
+
+![In Game Description]({{site.baseurl}}/images/Recognition_2.png)
+
+Players can choose a move/ability for their Pokémon during a match; however, there is no explanation of moves at all, forcing them to remember the previous lengthy descriptions of the moves prior to the match.
+
+<span style="color: #6fb4ca;">**My recommendation**</span>
 
 ![Select Move in-game]({{site.baseurl}}/images/SelectMove.png)
 
-For selecting a Pokémon move during a match, include the type of the moves (i.e. ranged, hindrance) as a simple way to inform users about what the moves do.
+For selecting a Pokémon move during a match, include the type of the moves (i.e. ranged, hindrance) as a simple way to inform users about what the moves do so that users *recognize* these moves more easily.
+
+<br>
 
 ### Navigating to Pokémon Held Items
 ![Held Item Page]({{site.baseurl}}/images/Cross_1.jpg)
@@ -70,6 +88,8 @@ While these items can be assigned to each specific Pokémon, the Pokémon page d
 
 Present selected held items on the Pokémon's page, and allow users to navigate to the Held Items page when they click them.
 
-### Learnings
-**Stay objective** <br>
+<br>
+
+## Learnings
+* **Stay objective** <br>
 Video games are unique in a way that users can experience a wide range of emotions. While I spent a lot of time familiarizing myself with common UX/UI patterns used in the game, I learned that it is important to put the <mark style="background-color: #FFE599">user</mark> and <mark style="background-color: #FFE599">heuristic principle</mark> first and set aside my personal opinions.

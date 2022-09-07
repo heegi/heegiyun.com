@@ -2,13 +2,11 @@
 layout: post
 title:  RockX Museum
 image:  '/images/Project3.png'
-tags:   [UX/UI Design, Interaction Design]
+tags:   [UX Design, Interaction Design]
 description: Creating the emerging digital experience for museum visitors through a B2C website
 ---
-### Project Summary
-RockX is a new hybrid music history museum that incorporates both the remote and in-person digital artifacts into the museum visitors’ experiences. The museum is dedicated not only to the history of Rock music but also supporting the new emerging artists/bands.
-
-For this project, a customer-facing (B2C) website was designed to allow potential visitors to learn about Rock and Roll and create a tour plan for their visit.
+## Project Summary
+RockX is a theoretical hybrid music history museum that incorporates both the remote and in-person digital artifacts into the museum visitors’ experiences. A customer-facing (B2C) website was designed to allow potential visitors to learn about Rock and Roll music and create a tour plan for their visit.
 
 **Project Type** <br>
 Academic interaction design project
@@ -19,33 +17,17 @@ Academic interaction design project
 **My Role** <br>
 As a team of 3, we created personas and a journey map for one of the personas together. Then, I was tasked to create a medium-fidelity prototype for a B2C website for the RockX museum using Axure.
 
-### Minimum Viable Scope
-The users of the RockX Website would be able to complete the following tasks:
-- Learn about rock and roll
-  - Experience curated playlists, save, and share
-  - Explore bands/artists as well as musical instruments they used
-  - Explore permanent and special exhibits
-  - Learn about reviews of new bands and touring schedules
-
-- Plan a visit to the actual physical facility
-  - Map how to allocate time based on personal interests
-  - Figure out how other people coming with you might best enjoy their visit
-  - Save the plan for later to follow in the RockX mobile app
-
-- Apply to have “emerging” bands adopted/promoted through RockX
-- Purchase museum entrance tickets, special event tickets or workshop tickets
-
-### Process
+## Process
 The entire project consisted of four different stages from understanding the users to developing a medium-fidelity prototype.
 
 ![Process]({{site.baseurl}}/images/Process.png)
 
-### Personas
+## Personas
 As a team. we created five different personas that would interact with either B2C website, B2C mobile app, or B2E Admin mobile app.
 
 ![Personas]({{site.baseurl}}/images/Personas.png)
 
-### Journey Map
+## Journey Map
 A user journey map was created for one of our personas, **Mark**, in order to understand how the user would experience the product over time.
 
 ![Journey Map 1]({{site.baseurl}}/images/journeymap_1.png)
@@ -54,19 +36,19 @@ A user journey map was created for one of our personas, **Mark**, in order to un
 
 ![Journey Map 3]({{site.baseurl}}/images/journeymap_3.png)
 
-### Conceptual Model
+## Conceptual Model
 An object-action matrix, object-attributes table, and a prioritization matrix were developed to establish the grammar of the product prior to designing the product.
 
 <center><img src="/images/ObjectAction.png" alt="Object action matrix"></center> <br>
 <center><img src="/images/ObjectAttributes.png" alt="Object attributes table"></center> <br>
 <center><img src="/images/Prioritization.png" alt="Prioritization matrix"></center> <br>
 
-### User Flow
+## User Flow
 Before developing a prototype, a user flow diagram was created for users' main task with the product: planning the tour and saving it to follow up in the mobile application.
 
 ![User Flow Diagram]({{site.baseurl}}/images/B2CUserFlow.jpg)
 
-### Prototype
+## Prototype
 The prototype followed the object-oriented design with the major objects of Exhibits, Events, and Tours.
 
 The **home page** features special exhibits and upcoming events, which can be directly added to the the user's tour plan via 'Add to Plan' buttons. There are two action buttons placed on the main cover page, 'Create a Tour' and 'Purchase Tickets', based on the prioritization matrix.
@@ -89,10 +71,8 @@ After creating a tour plan or manually adding the exhibits/events to the plan, u
 You can access the interactive prototype [**here**](https://gx1ci9.axshare.com)!
 
 ### Learning
-**1. Keep the grammar of the product in mind while designing the product.**
-
+* **Keep the grammar of the product in mind while designing the product.**
 While prototyping, I found it really helpful to look at the conceptual model and grammar as a guide when I felt overwhelmed or lost with my design. It reminded me of some necessary features/actions that I was missing in the design and make sure of the consistency of language within the design.
 
-**2. Don't focus too much on the details.**
-
+* **Don't focus too much on the details.**
 During the design phase, I sometimes found myself spending hours just to decide on which colors or fonts to use for the UI. I learned that it is important to step back and focus more on how the prototype would guide the users through the user flows.

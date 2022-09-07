@@ -1,48 +1,38 @@
 ---
 layout: post
-title:  Zillow Mobile App
+title:  Zillow Usability Testing
 image:  '/images/Project2.png'
-tags:   [UX Research, Usability Testing]
+tags:   [UX Research]
 description: Evaluating the home search experiences of potential home buyers/renters through usability testing
 ---
-### Project Summary
-Zillow is an online real estate market company that allows users to search and explore homes that are available for purchase or rent.
-
-The main objective of this project was to assess the Zillow mobile application to uncover usability issues that disrupt users’ experience when searching for homes and completing necessary tasks within the app. The usability tests were conducted with a total of six participants via Zoom due to the COVID-19 pandemic.
-
-**Project Type** <br>
-Academic project with three other classmates
-
-**Project Duration** <br>
-2 months (March - May 2021)
+## Overview
+The main objective of this *2-month-long* academic project was to assess the Zillow app and unconver usability issues that disrupt the users' home search experience. As a team of 4, we planned and conducted usability testing sessions with six participants via Zoom due to the COVID-19 pandemic.
 
 **My Role** <br>
-As a team of 4, we produced an end-to-end usability test protocol that contains all the materials used for preparing and executing the usability test as well as findings and recommendations from the study.
+I was responsible for developing scripts with breakdowns of scenarios/tasks, moderating the sessions, and compiliing common issues that were found from the sessions. After completion of the course, I redeisnged some of the interface that had usability issues in my own time using Figma.
 
-### Study Objectives
+<br>
+
+## Objectives
 Prior to conducting the usability study, our team conducted an informal heuristic evaluation of the app to understand user goals and identify pain points. Based on our understanding of user goals and usability issues we found via an evaluation, we wanted to tackle the following in this usability study:
-- Assess Zillow’s learnability and ease of use
-- Investigate its performance, intuitiveness, and efficiency
-- Identify common user pain points and tasks that illuminate them
-- Provide recommendations or solutions to improve the overall user experience
+* Assess Zillow’s <mark style="background-color: #FFE599">learnability</mark> and <mark style="background-color: #FFE599">ease of use</mark>
+* Identify <mark style="background-color: #FFE599">common pain points</mark> and tasks that illuminate them
+* Provide <mark style="background-color: #FFE599">actionable recommendations</mark> to improve the overall user experience
 
-### Participants
-For this study, we ended up with a total of six participants due to the COVID-19 pandemic. Based on their primary goals, we divided them into two groups: renters and buyers.
+<br>
 
-<center><img src="/images/Participants.png" alt="Participants"></center> <br>
+## Study Design
+Each participant completed one session that was approximately 90-minutes long. The two groups of participants (Renters & Buyers) completed different sets of tasks based on their goals. Each session consisted of four different parts:
+* Introduction
+* Tasks
+* Free Play
+* Post-test Interview
 
-### Study Design
-Each participant completed one session that was approximately 90-minutes long. The two groups of participants completed different sets of tasks based on their goals. Each session consisted of four different parts:
-- Introduction
-- Tasks
-- Free Play
-- Post-test Interview
-
-For our study, three different types of measures were used to assess the usability of the Zillow mobile app: performance measures, behavioral measures, and subjective measures.
+Three different types of measures were used to assess the usability of the Zillow mobile app: performance measures, behavioral measures, and subjective measures.
 
 <center><img src="/images/Measures.png" alt="Measures"></center> <br>
 
-### Results
+## Results
 From our usability tests, we identified three major issues that participants often faced: difficulty understanding app-specific terminology, unintuitive discoverability of app features, and difficulty navigating through the app.
 
 ![Updates & More]({{site.baseurl}}/images/updates_more.jpeg)
@@ -63,7 +53,9 @@ From our usability tests, we identified three major issues that participants oft
 
 **"Advanced" feature of "Affordability/Payment Calculators"** - Two-thirds of buyer participants struggled with Affordability and Payment Calculators as they did not expect to find additional criteria by scrolling down and clicking on the “Advanced”.
 
-### Recommendation
+<br>
+
+### <span style="color: #6fb4ca;">Redesigned Interfaces</span>
 - The term “Updates” confused many users while trying to locate their saved searches. We recommend changing the term to “Saved” with the search magnifying glass icon. It is also recommended to give users feedback on where their notes are saved right after they save their notes.
 
 - The term “More” is very broad, making it difficult for users to discover useful features and resources in the “More” tab. We recommend changing the term to “Resources” or “Tools” so that users are able to utilize features such as open house listings, real estate agent finder, mortgage plans, etc.
@@ -76,9 +68,11 @@ From our usability tests, we identified three major issues that participants oft
 
 - Have a separate, easily noticeable button for the “Advanced” search feature at the top of the interface, rather than the bottom.
 
-### Learnings
-**1. Teamwork is essential when conducting a usability testing.** <br>
+<br>
+
+## Learnings
+* **Teamwork is essential when conducting a usability testing.** <br>
 After our team watched recordings of the usability testing sessions and had a debrief session together, a lot of important observations that I originally missed were revealed. As a team, we were able to validate our observations and interpretations together and produce a stronger report.
 
-**2. Review and run a pilot study before the actual usability testing session.** <br>
+* **Review and run a pilot study before the actual usability testing session.** <br>
 During our first couple study sessions, we noticed some tasks were redundant or not clearly explained to the participants. Running a pilot study would have been a great idea to avoid the issue we encountered in this project.
