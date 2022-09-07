@@ -20,7 +20,7 @@ menu__settings:
 # Hero Settings
 hero:
   hero__title: Hi, I'm Heegi
-  hero__description: I'm a <b style="color:#6fb4ca">UX researcher/designer</b> recently graduated with an <b>M.S. in Human Factors and Ergonomics</b> degree with a focus in HCI at San Jose State University.
+  hero__description: I'm a <b style="color:#6fb4ca">UX researcher/designer</b> recently graduated with an <b>M.S. in Human Factors and Ergonomics</b> degree with a focus in <b>HCI</b> at San Jose State University.
 
 
 #-------------------------------
