@@ -8,7 +8,10 @@ description: Identifying usability issues based on heuristic and design principl
 ## Overview
 **Pokemon Unite** is a strategy multiplayer online battle arena (MOBA) video game on Nintendo Switch. The goal of this *3-month-long* academic project was to identify usability/design principle violations within the product interface and generate recommendations for each issue. 
 
-After completion of the course, I developed mid-fidelity mockups using Figma to showcase how these recommendations can be implemented to design. 
+After completion of the course, I developed mid-fidelity mockups to showcase how these recommendations can be implemented to design. 
+
+**Methods**<br>
+Survey, Review Analysis, Heuristic Evaluation, Prototyping (Figma)
 
 <br>
 
@@ -63,7 +66,7 @@ Instead of having a lengthy descriptions, have a concise description with a shor
 
 ![In Game Description]({{site.baseurl}}/images/Recognition_2.png)
 
-Players can choose a move/ability for their Pokémon during a match; however, there is no explanation of moves at all, forcing them to remember the previous lengthy descriptions of the moves prior to the match.
+Players can choose a move/ability for their Pokémon during a match; however, the interface does not provide much explanation of moves at all, forcing them to remember the previous lengthy descriptions of the moves prior to the match.
 
 <span style="color: #6fb4ca;">**My recommendation**</span>
 
@@ -84,12 +87,15 @@ While these items can be assigned to each specific Pokémon, the Pokémon page d
 
 <span style="color: #6fb4ca;">**My recommendation**</span>
 
-![Pokemon Page with Held Item]({{site.baseurl}}/images/HeldItems.gif)
+![Pokemon Page with Held Item]({{site.baseurl}}/images/Pokemon_v2.png)
 
-Present selected held items on the Pokémon's page, and allow users to navigate to the Held Items page when they click them.
+Present selected held items on the Pokémon's page, and allow users to navigate to the Held Items page directly.
 
 <br>
 
 ## Learnings
 * **Stay objective** <br>
-Video games are unique in a way that users can experience a wide range of emotions. While I spent a lot of time familiarizing myself with common UX/UI patterns used in the game, I learned that it is important to put the <mark style="background-color: #FFE599">user</mark> and <mark style="background-color: #FFE599">heuristic principle</mark> first and set aside my personal opinions.
+While video games are unique in a way that users can experience a wide range of emotions and I spent a lot of time familiarizing myself with common design patterns used in the game, I learned that it is important to put the <mark style="background-color: #FFE599">users</mark> and <mark style="background-color: #FFE599">heuristics</mark> first and set aside my personal opinions or assumptions.
+
+* **Use other methodologies to identify major issues and fewer minor issues** <br>
+While conducting heuristic evaluation, I often found it very easy to get caught up with many of the minor issues within the interface rather major issues that users might experience. Using data about the <mark style="background-color: #FFE599">users</mark> and <mark style="background-color: #FFE599">use context</mark> from the *inquiry methods* (i.e. survey and review analysis) really helped me narrow down the focus of my evaluation and later verify my statements to actual users' experience.

@@ -11,6 +11,9 @@ The main objective of this *2-month-long* academic project was to assess the Zil
 **My Role** <br>
 I was responsible for developing scripts with breakdowns of scenarios/tasks, moderating the sessions, and compiliing common issues that were found from the sessions. After completion of the course, I redeisnged some of the interface that had usability issues in my own time using Figma.
 
+**Methods**<br>
+Survey, Usability Testing, Prototyping (Figma)
+
 <br>
 
 ## Objectives
@@ -32,41 +35,41 @@ Three different types of measures were used to assess the usability of the Zillo
 
 <center><img src="/images/Measures.png" alt="Measures"></center> <br>
 
+<br>
+
 ## Results
-From our usability tests, we identified three major issues that participants often faced: difficulty understanding app-specific terminology, unintuitive discoverability of app features, and difficulty navigating through the app.
-
-![Updates & More]({{site.baseurl}}/images/updates_more.jpeg)
-
-**"Updates" tab** - Both renter and buyer participants struggled with locating their previously saved searches within the app as they did not expect to find them under the “Updates” tab. Participants did not associate the term “Updates” with saved searches, and this hindered them from successfully completing the task. In addition, one of the participants expressed frustration over this issue during the post-test interview.
-
-**"More" tab** - Buyer participants had difficulty finding features (e.g. “Find an Agent”, "Affordability Calculator", “Payment Calculator”) that are located under the “More” tab.
-
-![Agent & Other Listing]({{site.baseurl}}/images/listings.jpeg) 
-
-**"Agent Listings" versus "Other Listings"** - When browsing through homes, confusion was observed from buyer participants with the classification of listings into “Agent Listings” and “Other Listings” because some listings appeared in both categories.
-
-![Notes & More]({{site.baseurl}}/images/notes_more.jpeg)
-
-**"Save Notes" feature** - Participants had difficulty locating the “Save Notes” feature because the icon was ambiguous and was not consistently displayed on all the listings. Once participants successfully saved their notes on a listing, they struggled with locating where their notes were saved within the app, as the only way to access it is through "Edit Notes". One participant expressed a high level of frustration via verbal response during this task.
-
-![Invisible advanced feature]({{site.baseurl}}/images/advanced.jpeg)
-
-**"Advanced" feature of "Affordability/Payment Calculators"** - Two-thirds of buyer participants struggled with Affordability and Payment Calculators as they did not expect to find additional criteria by scrolling down and clicking on the “Advanced”.
+From our usability tests, we identified three major issues that participants often faced: difficulty understanding app-specific <mark style="background-color: #FFE599">terminology</mark>, unintuitive <mark style="background-color: #FFE599">discoverability</mark> of app features, and difficulty <mark style="background-color: #FFE599">navigating</mark> through the app. <br>
 
 <br>
 
-### <span style="color: #6fb4ca;">Redesigned Interfaces</span>
-- The term “Updates” confused many users while trying to locate their saved searches. We recommend changing the term to “Saved” with the search magnifying glass icon. It is also recommended to give users feedback on where their notes are saved right after they save their notes.
+**Updates tab** - All renter and buyer participants struggled with locating their previously saved searches within the app as they did not expect to find them under the “Updates” tab.
 
-- The term “More” is very broad, making it difficult for users to discover useful features and resources in the “More” tab. We recommend changing the term to “Resources” or “Tools” so that users are able to utilize features such as open house listings, real estate agent finder, mortgage plans, etc.
+**More tab** - All buyer participants had a difficult time finding tools (i.e. “Find an Agent”, "Affordability Calculator", “Payment Calculator”) that are located under the “More” tab. 
 
-- The lack of clarification of the difference between “Agent Listings” and “Other Listings” caused confusion among users. We recommend either combining the two tabs or changing the term “Other Listings” to “For Sale By Owner” to eliminate the confusion. We also recommend adding an assistive feature or pop-up guide that highlights and explains features throughout the app so that it is easier for users to find and utilize useful features.
+![Updates & More]({{site.baseurl}}/images/updates_more.jpeg)
 
-- To improve the navigation through the “Advanced” search within the Affordability and Payment calculators, we recommend the following:
+<br>
 
-- Add the "Advanced" tab as an additional step once users “confirm” their inputs for the first set of categories. Then, ask users if they would like to complete an “Advanced Search” with a short description of the difference between the two searches.
+![Agent & Other Listing]({{site.baseurl}}/images/listings.jpeg) 
 
-- Have a separate, easily noticeable button for the “Advanced” search feature at the top of the interface, rather than the bottom.
+**"Agent" versus "Other" Listing** - When browsing through homes, buyer participants were confused as they didn't understand how agent listing and other listings are different. 
+
+<br>
+
+![Notes & More]({{site.baseurl}}/images/notes_more.jpeg)
+
+**Save Notes** - Participants had a difficulty saving notes because it was hidden under the more icon. When 2 out of 6 participant successfully saved their notes on a listing, they struggled with locating where their notes were saved within the app; the only way to access it was through "Edit Notes".
+
+<br>
+
+![Invisible advanced feature]({{site.baseurl}}/images/advanced.jpeg)
+
+**"Advanced" feature of Affordability/Payment Calculators** - 2 out of 3 buyer participants struggled with using Affordability and Payment Calculators because they did not expect to find additional criteria under "Advanced" which is invisible unless they scroll down. <br>
+
+<br>
+
+### <span style="color: #6fb4ca;">Redesign: Proposed Solutions</span>
+Currently in progress ... check back in mid-September! :')
 
 <br>
 
