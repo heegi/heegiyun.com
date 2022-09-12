@@ -6,7 +6,7 @@ tags:   [UX Research]
 description: Exploring students' needs when using the library space on campus
 ---
 ## Project Summary
-This *3-month-long* academic research project was conducted using three different methods in the following order: field studies, interviews, and surveys. The ultimate objective of this research was to investigate *how to improve the use of library space to provide students a better study environment without distractions*.
+This *3-month-long* individual academic research was conducted using three different methods in the following order: field studies, interviews, and surveys. The ultimate goal of the project was to investigate *how to improve the use of library space to provide students a better study environment without distractions*.
 
 <br>
 
@@ -52,8 +52,8 @@ Lastly, I conducted surveys to students with or without regular experiences of s
 <center><img src="/images/layout.png" alt="Multi-purpose area layout"></center> <br>
 
 ### Learnings
-* **It is crucial to ask users the right questions in the right way.**
+* **It is crucial to ask users the right questions in the right way.**<br>
 Throughout this user research project, I learned that how questions are selected and worded can have a huge impact on users’ responses. In particular, interview questions had to be revised multiple times in order to avoid leading questions that may cause interviewees to answer in a biased way or confusing questions that may not be obvious to interviewees. I also learned that it is important to carefully choose the types of question to use in surveys based on the data I wish to gather.
 
-* **Have reasons behind how you prioritize the work.**
+* **Have reasons behind how you prioritize the work.**<br>
 As a user researcher, prioritization of the work is important and it should have a valid justification. I learned that prioritization should be based on factors such as feasibility, desirability, and viability of the work as well as potential constraints that may be involved.

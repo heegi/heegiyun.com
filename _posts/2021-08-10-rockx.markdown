@@ -6,16 +6,10 @@ tags:   [UX Design, Interaction Design]
 description: Creating the emerging digital experience for museum visitors through a B2C website
 ---
 ## Project Summary
-RockX is a theoretical hybrid music history museum that incorporates both the remote and in-person digital artifacts into the museum visitors’ experiences. A customer-facing (B2C) website was designed to allow potential visitors to learn about Rock and Roll music and create a tour plan for their visit.
+For an interaction design course, I designed a customer-facing (B2C) website for a theoretical hybrid music history museum called RockX. The main purpose of the website was to allow potential visitors to learn about Rock and Roll music and create a tour plan for their visit.
 
-**Project Type** <br>
-Academic interaction design project
-
-**Project Duration** <br>
-6 weeks (April - May 2021)
-
-**My Role** <br>
-As a team of 3, we created personas and a journey map for one of the personas together. Then, I was tasked to create a medium-fidelity prototype for a B2C website for the RockX museum using Axure.
+**Methods**<br>
+Personas, Journey Mapping, Conceptual Model, Prototyping (Axure RP)
 
 ## Process
 The entire project consisted of four different stages from understanding the users to developing a medium-fidelity prototype.

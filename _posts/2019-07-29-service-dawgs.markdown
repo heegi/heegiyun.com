@@ -48,8 +48,8 @@ The map would be given to the user when they come to the event so that they can 
 <center><img src="/images/map.png" alt="Event"></center> <br>
 
 ### Learnings
-* **Design process can be used beyond the web/mobile interfaces.**
+* **Design process can be used beyond the web/mobile interfaces.**<br>
 During the ideation phase, many of our classmates restricted their design ideas to creating a mobile app. However, the result of our user research was telling us that a mobile app won’t be the best solution to address user needs. Through this project, I learned that the design process can be used to yield many different types of solutions and it is important to focus on what would be the best solution to the problem rather than jumping into conclusion that we are going to make a mobile app that has a specific functionality.
 
-* **Be conscious about design choices and have rationale behind them.**
+* **Be conscious about design choices and have rationale behind them.**<br>
 As a designer, it is important to consider how every design choice we make can affect user experience with the product and take responsibility for them. I learned that there needs to be rationale behind small design choices, such as shapes and colors of the buttons used in the interface.

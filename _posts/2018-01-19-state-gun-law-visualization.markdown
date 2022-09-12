@@ -9,10 +9,12 @@ description: Visualizing the amount of gun-related state laws versus their subse
 This *4-week long* academic project aimed to showcase the correlation between the amount of gun-related state laws and their subsequent gun death rate in an understandable and easily digestible way.
 
 **My Role** <br>
-I pair-programmed with a classmate in creating a data visualization using the programming language R and interactive R Shiny program.
+I pair-programmed with a classmate in creating a data visualization using the programming language **R** and interactive **R Shiny** program.
 
 ### Data Visualization
 Data from Centers for Disease Control and Prevention (CDC) and a State Firearm Law Database by Dr. Michael Siegel were used to create the interactive dashboard. The two different sets of data were simplified, joined, and filtered to draw correlations between the number of state firearm legislation and the gun related death tolls/rates of each state. The R Shiny program allowed us to present information in a more user-friendly way.
+
+The entire interactive dashboard can be accessed by clicking [**here**](https://deroun.shinyapps.io/StateLawsVGunDeath/). <br>
 
 ![Home Page]({{site.baseurl}}/images/vis-home.png)
 
@@ -22,7 +24,6 @@ Data from Centers for Disease Control and Prevention (CDC) and a State Firearm L
 
 ![Our Interpretation Page]({{site.baseurl}}/images/vis-3.png)
 
-The entire interactive dashboard can be accessed by clicking [**here**](https://deroun.shinyapps.io/StateLawsVGunDeath/). <br>
 Visit the [**Github**](https://github.com/DeRoun/StateLawsVGunDeath) page for more details as well.
 
 ### Results
