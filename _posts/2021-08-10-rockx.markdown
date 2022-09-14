@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  RockX Museum
+title:  RockX Museum Website
 image:  '/images/Project3.png'
 tags:   [UX Design, Interaction Design]
 description: Creating the emerging digital experience for museum visitors through a B2C website
@@ -11,15 +11,21 @@ For an interaction design course, I designed a customer-facing (B2C) website for
 **Methods**<br>
 Personas, Journey Mapping, Conceptual Model, Prototyping (Axure RP)
 
+<br>
+
 ## Process
-The entire project consisted of four different stages from understanding the users to developing a medium-fidelity prototype.
+The entire project consisted of four different stages from understanding the potential users to developing a mid-fidelity prototype.
 
 ![Process]({{site.baseurl}}/images/Process.png)
 
+<br>
+
 ## Personas
-As a team. we created five different personas that would interact with either B2C website, B2C mobile app, or B2E Admin mobile app.
+Three personas were created that would interact with the B2C website.
 
 ![Personas]({{site.baseurl}}/images/Personas.png)
+
+<br>
 
 ## Journey Map
 A user journey map was created for one of our personas, **Mark**, in order to understand how the user would experience the product over time.
@@ -30,6 +36,8 @@ A user journey map was created for one of our personas, **Mark**, in order to un
 
 ![Journey Map 3]({{site.baseurl}}/images/journeymap_3.png)
 
+<br>
+
 ## Conceptual Model
 An object-action matrix, object-attributes table, and a prioritization matrix were developed to establish the grammar of the product prior to designing the product.
 
@@ -37,36 +45,43 @@ An object-action matrix, object-attributes table, and a prioritization matrix we
 <center><img src="/images/ObjectAttributes.png" alt="Object attributes table"></center> <br>
 <center><img src="/images/Prioritization.png" alt="Prioritization matrix"></center> <br>
 
+<br>
+
 ## User Flow
 Before developing a prototype, a user flow diagram was created for users' main task with the product: planning the tour and saving it to follow up in the mobile application.
 
 ![User Flow Diagram]({{site.baseurl}}/images/B2CUserFlow.jpg)
 
-## Prototype
-The prototype followed the object-oriented design with the major objects of Exhibits, Events, and Tours.
+<br>
 
-The **home page** features special exhibits and upcoming events, which can be directly added to the the user's tour plan via 'Add to Plan' buttons. There are two action buttons placed on the main cover page, 'Create a Tour' and 'Purchase Tickets', based on the prioritization matrix.
+## Prototype
+The prototype followed the *object-oriented* design with the major objects of Exhibits, Events, and Tours. You can view some of the main screens below or access the interactive prototype [**here**](https://gx1ci9.axshare.com)!
+
+<br>
+
+The **home page** features special exhibits and upcoming events, which can be directly added to the the user's tour plan via 'Add to Plan' buttons. 
 
 ![Home Page]({{site.baseurl}}/images/home_page.png)
 
+<br>
+
 On the **Exhibits page** and **Events page**, the user can browse through all of the permanent and special exhibits as well as concerts and workshops that are currently offered at the museum and manually add them to their tour plan.
 
-![Exhibits Page]({{site.baseurl}}/images/exhibits.png)
-![Events Page]({{site.baseurl}}/images/events.png)
+![Exhibits and Events]({{site.baseurl}}/images/screens_1.png)
+
+<br>
 
 On the **Tours page**, users can create a tour plan for their visit based on their interests and preferences. They can also obtain information about ticket prices and purchase their tickets.
 
-![Tours Page]({{site.baseurl}}/images/tours.png)
-
 After creating a tour plan or manually adding the exhibits/events to the plan, users are able to view and edit their tour plan on the **My Tour page** under their profile. It also prompts the users to transfer the tour plan to the mobile application to follow up.
 
-![My Tour Page]({{site.baseurl}}/images/my_visit_plan.png)
+![Tours and My Tour]({{site.baseurl}}/images/screens_2.png)
 
-You can access the interactive prototype [**here**](https://gx1ci9.axshare.com)!
+<br>
 
 ### Learning
-* **Keep the grammar of the product in mind while designing the product.**
-While prototyping, I found it really helpful to look at the conceptual model and grammar as a guide when I felt overwhelmed or lost with my design. It reminded me of some necessary features/actions that I was missing in the design and make sure of the consistency of language within the design.
+* **Keep the grammar of the product in mind while designing the product.** <br>
+While prototyping, I found it really helpful to look at the conceptual model and grammar as a guide when I felt overwhelmed or lost with my design. It reminded me of some necessary features/actions that I was missing in the design and make sure of the <mark style="background-color: #FFE599">consistency of language</mark> within the design.
 
-* **Don't focus too much on the details.**
-During the design phase, I sometimes found myself spending hours just to decide on which colors or fonts to use for the UI. I learned that it is important to step back and focus more on how the prototype would guide the users through the user flows.
+* **Don't focus too much on the details.** <br>
+During the design phase, I sometimes found myself spending hours just to decide on which colors or fonts to use for the UI. I learned that it is important to step back and focus more on how the prototype would guide the users through the <mark style="background-color: #FFE599">user flows</mark>.
