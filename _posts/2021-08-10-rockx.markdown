@@ -67,7 +67,7 @@ The **home page** features special exhibits and upcoming events, which can be di
 
 On the **Exhibits page** and **Events page**, the user can browse through all of the permanent and special exhibits as well as concerts and workshops that are currently offered at the museum and manually add them to their tour plan.
 
-![Exhibits and Events]({{site.baseurl}}/images/screens_1.png)
+![Exhibits and Events]({{site.baseurl}}/images/Screens_1.png)
 
 <br>
 
@@ -75,7 +75,7 @@ On the **Tours page**, users can create a tour plan for their visit based on the
 
 After creating a tour plan or manually adding the exhibits/events to the plan, users are able to view and edit their tour plan on the **My Tour page** under their profile. It also prompts the users to transfer the tour plan to the mobile application to follow up.
 
-![Tours and My Tour]({{site.baseurl}}/images/screens_2.png)
+![Tours and My Tour]({{site.baseurl}}/images/Screens_2.png)
 
 <br>
 
