@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Service Dawgs
-image:  '/images/project5.png'
+image:  '/images/Project5.png'
 tags:   [UX Research, UX Design]
 description: Designing an event to increase college students' involvement in community service
 ---
@@ -12,6 +12,9 @@ As a team of 3, we designed a theoretical on-campus event called **Service Dawgs
 
 **My Role** <br>
 I conducterd 3 qualitative interviews with the current students enrolled in the University of Washington. I was responsible for designing an informational website about the event as well as its information architecture.
+
+**Methods** <br>
+Interview, Card Sorting, Website Design (Wix)
 
 <br>
 
@@ -49,7 +52,7 @@ The map would be given to the user when they come to the event so that they can 
 
 ### Learnings
 * **Design process can be used beyond the web/mobile interfaces.**<br>
-During the ideation phase, many of our classmates restricted their design ideas to creating a mobile app. However, the result of our user research was telling us that a mobile app won’t be the best solution to address user needs. Through this project, I learned that the design process can be used to yield many different types of solutions and it is important to focus on what would be the best solution to the problem rather than jumping into conclusion that we are going to make a mobile app that has a specific functionality.
+During the ideation phase, we restricted their design ideas to creating a mobile app; however, the result of our team's research was telling us that a mobile app won’t be the best solution to solve the presented problem. This project made me realize that design thinking process can be used beyond the design of digital artifacts.
 
 * **Be conscious about design choices and have rationale behind them.**<br>
-As a designer, it is important to consider how every design choice we make can affect user experience with the product and take responsibility for them. I learned that there needs to be rationale behind small design choices, such as shapes and colors of the buttons used in the interface.
+As a designer, it is important to consider how every design choice we make can affect user experience with the product and take responsibility for them. I learned that there needs to be <mark style="background-color: #FFE599">rationale behind small design choices</mark>, such as shapes and colors of the buttons used in the interface.
