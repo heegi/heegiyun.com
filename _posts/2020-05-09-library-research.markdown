@@ -56,7 +56,7 @@ Lastly, I conducted surveys to students with or without regular experiences of s
 
 ### Learnings
 * **It is crucial to ask users the right questions in the right way.**<br>
-How questions are selected and framed can have a huge impact on the research finding. In particular, interview questions had to be revised multiple times in order to avoid leading questions that may result in biased data or confusing questions that were not obvious to interviewees. I also learned that it is important to carefully choose the types of question to ask in surveys based on the data I wish to gather.
+How questions are selected and framed can have a huge impact on the research finding. In particular, interview questions had to be revised multiple times in order to avoid leading questions or confusing questions that were not obvious to interviewees. I also learned that it is important to carefully choose the types of question to ask in surveys based on the data I wish to gather.
 
 * **Have reasons behind how you prioritize the work.**<br>
-I learned that it is important to effectively prioritize the research findings as a researcher and should be able to explain why some things need to be prioritized more than the other.
+I learned that it is important to effectively prioritize the research findings as a researcher and should be able to explain valid reasons behind why some things need to be prioritized more than the other.

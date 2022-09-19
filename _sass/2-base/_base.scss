@@ -161,12 +161,11 @@ hr {
 
 table {
   font-size: 12px;
-  color: var(--dark);
   width: 100%;
-  border-width: 1px;
-  border-color: var(--background-alt-color);
+  border-width: 0px;
   border-collapse: collapse;
   color: var(--heading-font-color);
+  table-layout: fixed;
 }
 
 table th {
@@ -180,7 +179,6 @@ table th {
 }
 
 table tr {
-  background-color: var(--tr-color);
   transition: all .3s ease;
   &:nth-child(even) {
     background-color: transparent;
@@ -189,8 +187,9 @@ table tr {
 
 table td {
   padding: 10px;
-  font-size: 14px;
-  border: 1px solid var(--background-alt-color);
+  font-size: $base-font-size;
+  vertical-align: middle;
+  color: var(--text-color);
 }
 
 .button {
