@@ -2,7 +2,7 @@
 layout: post
 title:  Zillow Usability Testing
 image:  '/images/Project2.png'
-tags:   [UX Research]
+tags:   [UX Research, UX Design]
 description: Evaluating the home search experiences of potential home buyers/renters through usability testing
 ---
 ## Overview
