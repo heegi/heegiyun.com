@@ -6,7 +6,7 @@ tags:   [UX Design, Interaction Design]
 description: Creating the emerging digital experience for museum visitors through a B2C website
 ---
 ## Project Summary
-For an interaction design course, I designed a customer-facing (B2C) website for a theoretical hybrid music history museum called RockX. The main purpose of the website was to allow potential visitors to learn about Rock and Roll music and create a tour plan for their visit.
+For an interaction design course, I was tasked to design a customer-facing (B2C) website for a theoretical hybrid music history museum called RockX. The main purpose of the website was to allow potential visitors to learn about Rock and Roll music and create a tour plan for their visit.
 
 **Methods**<br>
 Personas, Journey Mapping, Conceptual Model, Prototyping (Axure RP)
@@ -23,7 +23,9 @@ The entire project consisted of four different stages from understanding the pot
 ## Personas
 Three personas were created that would interact with the B2C website.
 
-![Personas]({{site.baseurl}}/images/Personas.png)
+![Persona Mark]({{site.baseurl}}/images/Persona_1.png)
+![Persona Sydney]({{site.baseurl}}/images/Persona_2.png)
+![Persona Cynthia]({{site.baseurl}}/images/Persona_3.png)
 
 <br>
 
