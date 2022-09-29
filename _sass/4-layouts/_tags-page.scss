@@ -1,6 +1,6 @@
 /* Tags */
 .tag__head {
-  margin: 96px 0 80px;
+  margin: 96px 0 40px;
 
   @media only screen and (max-width: $desktop) {
     margin: 40px 0;
@@ -41,7 +41,7 @@
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  padding-bottom: 80px;
+  padding-bottom: 40px;
   border-bottom: 1px solid var(--border-color-alt);
 
   .tag__item {
