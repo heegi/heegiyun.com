@@ -11,6 +11,8 @@ For an interaction design course, I was tasked to design a customer-facing (B2C)
 **Methods**<br>
 Personas, Journey Mapping, Conceptual Model, Prototyping (Axure RP)
 
+*If you want to skip the case study and jump to the prototype,* click <a href="https://gx1ci9.axshare.com" target="_blank">here</a>!
+
 <br>
 
 ## Process
@@ -57,7 +59,7 @@ Before developing a prototype, a user flow diagram was created for users' main t
 <br>
 
 ## Prototype
-The prototype followed the *object-oriented* design with the major objects of Exhibits, Events, and Tours. You can view some of the main screens below or access the interactive prototype [**here**](https://gx1ci9.axshare.com)!
+The prototype followed the *object-oriented* design with the major objects of Exhibits, Events, and Tours. You can access the interactive prototype [**here**](https://gx1ci9.axshare.com) or view some of the main screens below.
 
 <br>
 
@@ -69,15 +71,15 @@ The **home page** features special exhibits and upcoming events, which can be di
 
 On the **Exhibits page** and **Events page**, the user can browse through all of the permanent and special exhibits as well as concerts and workshops that are currently offered at the museum and manually add them to their tour plan.
 
-![Exhibits and Events]({{site.baseurl}}/images/Screens_1.png)
+![Exhibits and Events]({{site.baseurl}}/images/RockX_ExhibitsEvents.png)
 
 <br>
 
-On the **Tours page**, users can create a tour plan for their visit based on their interests and preferences. They can also obtain information about ticket prices and purchase their tickets.
+Through the **Tours page**, users can create a tour plan for their visit based on their interests and preferences. They can also obtain information about ticket prices and purchase their tickets.
 
-After creating a tour plan or manually adding the exhibits/events to the plan, users are able to view and edit their tour plan on the **My Tour page** under their profile. It also prompts the users to transfer the tour plan to the mobile application to follow up.
+After creating the plan or manually adding the exhibits/events to the plan, users are navigated to **My Tour page**, which allows them to view and edit their tour plan. It also prompts the users to transfer the tour plan to the mobile application using the provided QR code.
 
-![Tours and My Tour]({{site.baseurl}}/images/Screens_2.png)
+<div style="padding:74.38% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/757706738?h=eb5087deb9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="RockX Tour"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script> <br>
 
 <br>
 
