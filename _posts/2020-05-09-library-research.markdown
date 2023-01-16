@@ -42,7 +42,7 @@ Lastly, I conducted surveys to students with or without regular experiences of s
 
 <center><img src="/images/surveygraph2.png" alt="Survey value"></center>
 
-<center><img src="/images/surveygraph3.png" alt="Survey distraction"></center> <br>
+<center><img src="/images/surveygraph3.png" alt="Survey distraction"></center>
 
 <br>
 
@@ -52,7 +52,9 @@ Lastly, I conducted surveys to students with or without regular experiences of s
 
 * Create a <mark style="background-color: #FFE599">multi-purpose noise-free area</mark> for students to minimize distractions that happen tor those who study in libraries, while still providing space for those who wish to use library for talking, playing video games, and other social purposes.
 
-<center><img src="/images/layout.png" alt="Multi-purpose area layout"></center> <br>
+<center><img src="/images/layout.png" alt="Multi-purpose area layout"></center>
+
+<br>
 
 ### Learnings
 * **It is crucial to ask users the right questions in the right way.**<br>

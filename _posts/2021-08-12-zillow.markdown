@@ -40,13 +40,11 @@ Three different types of measures were used to assess the usability of the Zillo
 ## Results
 From our usability tests, we identified three major issues that participants often faced: difficulty understanding app-specific <mark style="background-color: #FFE599">terminology</mark>, unintuitive <mark style="background-color: #FFE599">discoverability</mark> of app features, and difficulty <mark style="background-color: #FFE599">navigating</mark> through the app. <br>
 
-<br>
+![Updates & More]({{site.baseurl}}/images/updates_more.jpeg)
 
 **Updates tab** - All renter and buyer participants struggled with locating their previously saved searches within the app as they did not expect to find them under the “Updates” tab.
 
 **More tab** - All buyer participants had a difficult time finding tools (i.e. “Find an Agent”, "Affordability Calculator", “Payment Calculator”) that are located under the “More” tab. 
-
-![Updates & More]({{site.baseurl}}/images/updates_more.jpeg)
 
 <br>
 

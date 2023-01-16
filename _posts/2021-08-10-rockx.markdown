@@ -11,7 +11,7 @@ For an interaction design course, I was tasked to design a customer-facing (B2C)
 **Methods**<br>
 Personas, Journey Mapping, Conceptual Model, Prototyping (Axure RP)
 
-*If you want to skip the case study and jump to the prototype,* click <a href="https://gx1ci9.axshare.com" target="_blank">here</a>!
+*If you want to skip the case study and jump to the prototype,* click <a href="https://gx1ci9.axshare.com" target="_blank" style="color: #6fb4ca;">here</a>!
 
 <br>
 
@@ -36,9 +36,12 @@ A user journey map was created for one of our personas, **Mark**, in order to un
 
 ![Journey Map 1]({{site.baseurl}}/images/journeymap_1.png)
 
+
 ![Journey Map 2]({{site.baseurl}}/images/journeymap_2.png)
 
+
 ![Journey Map 3]({{site.baseurl}}/images/journeymap_3.png)
+
 
 <br>
 
@@ -59,9 +62,7 @@ Before developing a prototype, a user flow diagram was created for users' main t
 <br>
 
 ## Prototype
-The prototype followed the *object-oriented* design with the major objects of Exhibits, Events, and Tours. You can access the interactive prototype [**here**](https://gx1ci9.axshare.com) or view some of the main screens below.
-
-<br>
+The prototype followed the *object-oriented* design with the major objects of Exhibits, Events, and Tours. You can access the interactive prototype <a href="https://gx1ci9.axshare.com" target="_blank" style="color: #6fb4ca;">here</a> or view some of the main screens below.
 
 The **home page** features special exhibits and upcoming events, which can be directly added to the the user's tour plan via 'Add to Plan' buttons. 
 
