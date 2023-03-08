@@ -75,7 +75,7 @@ From our usability tests, we identified three major issues that participants oft
     </tr>
 </table>
 
-* Renamed Updates and More tabs to <mark style="background-color: #FFE599">"Saved Searches"</mark> and <mark style="background-color: #FFE599">"Tools"</mark> to eliminate abiguity of the terms
+* Renamed Updates and More tabs to <mark style="background-color: #FFE599">"Saved Searches"</mark> and <mark style="background-color: #FFE599">"Tools"</mark> to eliminate ambiguity of the terms
 * Put Recommended Homes below the Saved Searches
 * Utilized more white space and consistent spacing between elements to reduce visual clutter
 
