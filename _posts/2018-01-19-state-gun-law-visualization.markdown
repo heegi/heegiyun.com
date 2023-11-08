@@ -18,7 +18,7 @@ Data from Centers for Disease Control and Prevention (CDC) and a State Firearm L
 
 The entire interactive dashboard can be accessed by clicking [**here**](https://deroun.shinyapps.io/StateLawsVGunDeath/). <br>
 
-![Home Page]({{site.baseurl}}/images/vis-home.png)
+![Home Page]({{site.baseurl}}/images/vis-home.PNG)
 
 ![All States Page]({{site.baseurl}}/images/vis-1.png)
 

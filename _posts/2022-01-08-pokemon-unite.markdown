@@ -32,7 +32,7 @@ Based on the findings, I decided to focus my heuristic evaluation on:
 
 <br>
 
-## Sample Issues & Solutions
+## Sample Issues & Redesigns
 
 ### Inviting other players to lobby
 ![Lobby Invite]({{site.baseurl}}/images/Lobby_1.png)
@@ -41,7 +41,7 @@ Based on the findings, I decided to focus my heuristic evaluation on:
 
 A popup appears when users try to invite players that are not their friends to their lobby; however, there is no action users can perform rather than to close the popup. This ultimately does not guide users achieve their goal of inviting other friends. 
 
-<span style="color: #6fb4ca;">**My recommendation**</span>
+<span style="color: #545ed4;">**My Redesign**</span>
 
 ![Invite Other Players]({{site.baseurl}}/images/InviteOtherPlayers.gif)
 
@@ -54,7 +54,7 @@ Provide users an option to search for other players and invite them to the Lobby
 
 On Pokémon page, there are lengthy descriptions of moves/abilities for each Pokémon; this poses a high cognitive load and makes it difficult for users to learn.
 
-<span style="color: #6fb4ca;">**My recommendation**</span>
+<span style="color: #545ed4;">**My Redesign**</span>
 
 ![Pokemon Page with Video Clips]({{site.baseurl}}/images/PokemonMove.gif)
 
@@ -68,7 +68,7 @@ Instead of having a lengthy descriptions, have a concise description with a shor
 
 Players can choose a move/ability for their Pokémon during a match; however, the interface does not provide much explanation of moves at all, forcing them to remember the previous lengthy descriptions of the moves prior to the match.
 
-<span style="color: #6fb4ca;">**My recommendation**</span>
+<span style="color: #545ed4;">**My Redesign**</span>
 
 ![Select Move in-game]({{site.baseurl}}/images/SelectMove.png)
 
@@ -85,7 +85,7 @@ Users are able to give three different items to a Pokémon of their choice on th
 
 While these items can be assigned to each specific Pokémon, the Pokémon page does not provide any information about these items nor a way to directly navgate to the Held Items page.
 
-<span style="color: #6fb4ca;">**My recommendation**</span>
+<span style="color: #545ed4;">**My Redesign**</span>
 
 ![Pokemon Page with Held Item]({{site.baseurl}}/images/Pokemon_v2.png)
 

@@ -19,8 +19,8 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hi, I'm Heegi
-  hero__description: I'm a <b style="color:#6fb4ca">UX researcher/designer</b>, passionate about solving ambiguous problems through the lens of Psychology and inclusive design.<br><br>I recently graduated from San Jose State University with an <b>M.S. in Human Factors and Ergonomics</b> with a focus in <b>HCI</b>.
+  hero__title: Welcome to my portfolio!
+  hero__description: I'm a <b style="color:#545ed4">research-driven UX Designer</b>, passionate about solving ambiguous problems through the lens of Psychology and human-centered design.<br><br> I'm currently a <b>Human Factors Engineer</b> at <b>General Dynamics IT</b>, providing a wide range of design and research work for the Centers for Medicare & Medicaid Services (CMS) client.
 
 
 #-------------------------------
