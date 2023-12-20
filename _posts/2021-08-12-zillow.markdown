@@ -12,7 +12,7 @@ Over the course of this *2-month* academic project, our primary goal was to eval
 My role encompassed developing scripts outlining scenarios and tasks, moderating the sessions, and synthesizing prevalent issues observed from the sessions. Following my completion of the course, I dedicated my personal time to redesign some of the interface that had usability concerns using Figma to implement design recommendations that came out of the usability testing.
 
 **Methods**<br>
-Survey , Usability Testing, Prototyping (Figma)
+Survey, Usability Testing, Prototyping (Figma)
 
 <br>
 
@@ -50,13 +50,13 @@ From our usability testing sessions, we discovered three prevailing themes encap
 
 ![Agent & Other Listing]({{site.baseurl}}/images/listings.jpeg) 
 
-**"Agent" versus "Other" Listing** - Buyer participants experienced confusion when distinguishing between agent listing and other listings while browing for homes. 
+**"Agent" versus "Other" Listing** - Buyer participants experienced confusion when distinguishing between agent listing and other listings while browsing for homes. 
 
 <br>
 
 ![Notes & More]({{site.baseurl}}/images/notes_more.jpeg)
 
-**Save Notes** - Participants had difficulty saving notes because it was hidden under the "More" icon. While 2 out of 6 participant successfully saved their notes on a listing, they struggled with accessing and managing those notes within the app.
+**Save Notes** - Participants had difficulty saving notes because it was hidden under the "More" icon. While 2 out of 6 participants successfully saved their notes on a listing, they struggled with accessing and managing those notes within the app.
 
 <br>
 
@@ -84,6 +84,7 @@ From our usability testing sessions, we discovered three prevailing themes encap
 <br>
 
 ![Agent & Other Listing Redesign]({{site.baseurl}}/images/Listing_v2.png)
+<center><img src="/images/Listing_v2_Filter.png" alt="Agent & Other Listing Filter"></center> <br>
 
 * Implemented a Filter button positioned in the top right corner next to the search bar, while removing previous filter options on the screen. By consolidating filters onto a designated screen, users can apply multiple filters simultaneously, minimizing the need for one-by-one selection and application.
 * Added the Listing Type checkboxes as a filter criterion, each with a brief explanation, considering a use case where users seek to view all listings, encompassing both Agent and Other categories. 
@@ -92,7 +93,7 @@ From our usability testing sessions, we discovered three prevailing themes encap
 
 ![Notes Redesign]({{site.baseurl}}/images/Notes.png)
 
-* Removed the Chat icon, as users can still access it via the "Message" button located under the listing discription at the bottom. 
+* Removed the Chat icon, as users can still access it via the "Message" button located under the listing description at the bottom. 
 * Instead, introduced a Note icon so that users can easily add or edit their notes.
 
 <br>
@@ -100,7 +101,7 @@ From our usability testing sessions, we discovered three prevailing themes encap
 ![Notes Redesign]({{site.baseurl}}/images/Calculator_v2.png)
 
 * Created separate tabs for "Payment Breakdown" and "Amortization" to address the issue of invisibility in the previous interface, ensuring easier access and visibility for users.
-* Enhanced the visibility of the "Advanced" hyperlink by enlarging the font and incorporating more white space, makimng it more prominent and easily identifiable.
+* Enhanced the visibility of the "Advanced" hyperlink by enlarging the font and incorporating more white space, making it more prominent and easily identifiable.
 * Changed the next step hyperlink into a more noticeable button, ensuring it stands out for users.
 
 <br>
