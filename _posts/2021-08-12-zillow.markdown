@@ -3,24 +3,24 @@ layout: post
 title:  Zillow Usability Testing
 image:  '/images/Project2.png'
 tags:   [UX Research, UX Design]
-description: Evaluating the home search experiences of potential home buyers/renters through usability testing
+description: Evaluating the home search experiences of potential home buyers & renters through usability testing
 ---
 ## Overview
-The main objective of this *2-month-long* academic project was to assess the Zillow app and unconver usability issues that disrupt the users' home search experience. As a team of 4, we planned and conducted usability testing sessions with 6 participants via Zoom due to the COVID-19 pandemic.
+Over the course of this *2-month* academic project, our primary goal was to evaluate the Zillow app, identifying and unraveling any usability issues that may disrupt the users' home search experience. Collaborating as a team of 4, we meticulously planned and executed usability testing sessions with 6 participants via Zoom, adapting to the challenges posed by the COVID-19 pandemic.
 
 **My Role** <br>
-I was responsible for developing scripts with breakdowns of scenarios/tasks, moderating the sessions, and compiliing common issues that were found from the sessions. After completion of the course, I redeisnged some of the interface that had usability issues in my own time using Figma.
+My role encompassed developing scripts outlining scenarios and tasks, moderating the sessions, and synthesizing prevalent issues observed from the sessions. Following my completion of the course, I dedicated my personal time to redesign some of the interface that had usability concerns using Figma to implement design recommendations that came out of the usability testing.
 
 **Methods**<br>
-Survey, Usability Testing, Prototyping (Figma)
+Survey , Usability Testing, Prototyping (Figma)
 
 <br>
 
 ## Objectives
-Prior to conducting the usability study, our team conducted an informal heuristic evaluation of the app to understand user goals and identify pain points. Based on our understanding of user goals and usability issues we found via an evaluation, we wanted to tackle the following in this usability study:
-* Assess Zillow’s <mark style="background-color: #FFE599">learnability</mark> and <mark style="background-color: #FFE599">ease of use</mark>
-* Identify <mark style="background-color: #FFE599">common pain points</mark> and tasks that illuminate them
-* Provide <mark style="background-color: #FFE599">actionable recommendations</mark> to improve the overall user experience
+Before delving into the usability study, our team conducted an informal heuristic evaluation of the app to gain insights into user goals and identify pain points. Based on our understanding of user objectives and identified usability issues, our focus for the usability study was threefold:
+* Evaluate Zillow’s <mark style="background-color: #FFE599">learnability</mark> and <mark style="background-color: #FFE599">ease of use</mark>
+* Identify <mark style="background-color: #FFE599">prevalent pain points</mark> and tasks that illuminate these issues
+* Provide <mark style="background-color: #FFE599">actionable recommendations</mark> to enhance the overall user experience
 
 <br>
 
@@ -38,81 +38,76 @@ Three different types of measures were used to assess the usability of the Zillo
 <br>
 
 ## Results
-From our usability tests, we identified three major issues that participants often faced: difficulty understanding app-specific <mark style="background-color: #FFE599">terminology</mark>, unintuitive <mark style="background-color: #FFE599">discoverability</mark> of app features, and difficulty <mark style="background-color: #FFE599">navigating</mark> through the app. <br>
+From our usability testing sessions, we discovered three prevailing themes encapsulating the issues commonly encountered by the participants: difficulty understanding app-specific <mark style="background-color: #FFE599">terminology</mark>, unintuitive <mark style="background-color: #FFE599">discoverability</mark> of app features, and difficulty <mark style="background-color: #FFE599">navigating</mark> through the app. <br>
 
 ![Updates & More]({{site.baseurl}}/images/updates_more.jpeg)
 
-**Updates tab** - All renter and buyer participants struggled with locating their previously saved searches within the app as they did not expect to find them under the “Updates” tab.
+**Updates tab** - All renter and buyer participants encountered challenges in locating their previously saved searches, which was unexpectedly placed under the “Updates” tab.
 
-**More tab** - All buyer participants had a difficult time finding tools (i.e. “Find an Agent”, "Affordability Calculator", “Payment Calculator”) that are located under the “More” tab. 
+**More tab** - All buyer participants had difficulty finding essential tools like “Find an Agent”, "Affordability Calculator", “Payment Calculator” located under the “More” tab. 
 
 <br>
 
 ![Agent & Other Listing]({{site.baseurl}}/images/listings.jpeg) 
 
-**"Agent" versus "Other" Listing** - When browsing through homes, buyer participants were confused as they didn't understand how agent listing and other listings are different. 
+**"Agent" versus "Other" Listing** - Buyer participants experienced confusion when distinguishing between agent listing and other listings while browing for homes. 
 
 <br>
 
 ![Notes & More]({{site.baseurl}}/images/notes_more.jpeg)
 
-**Save Notes** - Participants had a difficulty saving notes because it was hidden under the more icon. When 2 out of 6 participant successfully saved their notes on a listing, they struggled with locating where their notes were saved within the app; the only way to access it was through "Edit Notes".
+**Save Notes** - Participants had difficulty saving notes because it was hidden under the "More" icon. While 2 out of 6 participant successfully saved their notes on a listing, they struggled with accessing and managing those notes within the app.
 
 <br>
 
 ![Invisible advanced feature]({{site.baseurl}}/images/advanced.jpeg)
 
-**"Advanced" feature of Affordability/Payment Calculators** - 2 out of 3 buyer participants struggled with using Affordability and Payment Calculators because they did not expect to find additional criteria under "Advanced" which is invisible unless they scroll down. <br>
+**"Advanced" feature of Affordability/Payment Calculators** - 2 out of 3 buyer participants struggled with a task using Affordability and Payment Calculators because they did not expect to find additional criteria under "Advanced" which is invisible unless they scroll down, impacting their discoverability. <br>
 
 <br>
 
-### <span style="color: #6fb4ca;">Redesign: Proposed Solutions</span>
+### <span style="color: #545ed4;">Redesign: Proposed Solutions</span>
 
-<table>
-    <tr>
-        <td><img src="/images/Updates_v2.png" width="350"></td>
-        <td><img src="/images/More_v2.png" width="350"></td>
-    </tr>
-</table>
+![Saved Search Redesign]({{site.baseurl}}/images/Updates_v2.png)
 
-* Renamed Updates and More tabs to <mark style="background-color: #FFE599">"Saved Searches"</mark> and <mark style="background-color: #FFE599">"Tools"</mark> to eliminate ambiguity of the terms
-* Put Recommended Homes below the Saved Searches
-* Utilized more white space and consistent spacing between elements to reduce visual clutter
+* Renamed "Updates" tab to "Saved Searches" to reduce ambiguity associated with the term.
+* Positioned Recommended Homes below the Saved Searches section to better align the interface design with user objectives.
+* Added an indicator (three blue lines next to the search title) for saved searches with updates.
+* Incorporated more white space and consistent spacing between elements to reduce visual clutter.
 
 <br>
 
-<table>
-    <tr>
-        <td><img src="/images/Listing_v2.png" width="720"></td>
-    </tr>
-</table>
+![More Tab Redesign]({{site.baseurl}}/images/More_v2.png)
 
-* Created a <mark style="background-color: #FFE599">Filter button</mark> in the top right corner next to the search bar while removing existing filter options on the page.
-* Added <mark style="background-color: #FFE599">Listing Type</mark> as a filter criterion with a brief explanation for each
+* Renamed "More" tab to "Tools", accompanied by a toolbox icon, to clarify its purpose.
 
 <br>
 
-<table>
-    <tr>
-        <td><img src="/images/Note.png" width="320"></td>
-        <td>Removed chat icon, as there is already a Message button under the description of the listing at the bottom. <br> <br> Instead, added a <mark style="background-color: #FFE599">note icon</mark> where users are able to add or edit their notes. </td>
-    </tr>
-</table>
+![Agent & Other Listing Redesign]({{site.baseurl}}/images/Listing_v2.png)
+
+* Implemented a Filter button positioned in the top right corner next to the search bar, while removing previous filter options on the screen. By consolidating filters onto a designated screen, users can apply multiple filters simultaneously, minimizing the need for one-by-one selection and application.
+* Added the Listing Type checkboxes as a filter criterion, each with a brief explanation, considering a use case where users seek to view all listings, encompassing both Agent and Other categories. 
 
 <br>
 
-<table>
-    <tr>
-        <td><img src="/images/Calculator_v2.png" width="320"></td>
-        <td>Created tabs for Payment Breakdown and Amortization as the previous interface had amortization invisible.<br><br>Made the Advanced hyperlink more visible on the page using a bigger font and white space.<br><br>Changed the next step hyperlink to a button that is more noticeable.</td>
-    </tr>
-</table>
+![Notes Redesign]({{site.baseurl}}/images/Notes.png)
+
+* Removed the Chat icon, as users can still access it via the "Message" button located under the listing discription at the bottom. 
+* Instead, introduced a Note icon so that users can easily add or edit their notes.
+
+<br>
+
+![Notes Redesign]({{site.baseurl}}/images/Calculator_v2.png)
+
+* Created separate tabs for "Payment Breakdown" and "Amortization" to address the issue of invisibility in the previous interface, ensuring easier access and visibility for users.
+* Enhanced the visibility of the "Advanced" hyperlink by enlarging the font and incorporating more white space, makimng it more prominent and easily identifiable.
+* Changed the next step hyperlink into a more noticeable button, ensuring it stands out for users.
 
 <br>
 
 ## Learnings
-* **Teamwork is essential when conducting a usability testing.** <br>
-After our team watched recordings of the usability testing sessions and had a debrief session together, a lot of important observations that I originally missed were revealed. As a team, we were able to validate our observations and interpretations together and produce a stronger report.
+* **Teamwork is essential in usability testing.** <br>
+Through collaborative post-session reviews and a comprehensive debrief, our team gathered invaluable insights that enriched our collective understanding. It was an enlightening experience where we validated individual observations and worked together to create a more cohesive and enriched project outcome.
 
-* **Review and run a pilot study before the actual usability testing session.** <br>
-During our first couple study sessions, we noticed some tasks were redundant or not clearly explained to the participants. Running a pilot study would have been a great idea to avoid the issue we encountered in this project.
+* **A pilot study before testing sessions could have been beneficial.** <br>
+Reflecting on our initial study sessions, we noticed several tasks that were repetitive or had unclear instructions. Running a pilot study beforehand could have helped mitigate these issues, streamlining the process and ensuring greater clarity for participants in the subsequent sessions.

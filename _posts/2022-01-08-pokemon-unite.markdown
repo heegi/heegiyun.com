@@ -83,7 +83,7 @@ Users are able to give three different items to a Pokémon of their choice on th
 
 ![Pokemon Page]({{site.baseurl}}/images/Cross_2.jpg)
 
-While these items can be assigned to each specific Pokémon, the Pokémon page does not provide any information about these items nor a way to directly navgate to the Held Items page.
+While these items can be assigned to each specific Pokémon, the Pokémon page does not provide any information about these items nor a way to directly navigate to the Held Items page.
 
 <span style="color: #545ed4;">**My Redesign**</span>
 

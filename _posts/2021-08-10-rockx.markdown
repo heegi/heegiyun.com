@@ -6,12 +6,12 @@ tags:   [UX Design, Interaction Design]
 description: Creating the emerging digital experience for museum visitors through a B2C website
 ---
 ## Project Summary
-For an interaction design course, I was tasked to design a customer-facing (B2C) website for a theoretical hybrid music history museum called RockX. The main purpose of the website was to allow potential visitors to learn about Rock and Roll music and create a tour plan for their visit.
+As part of an interaction design course, I was tasked to design a customer-facing (B2C) website for RockX, a hypothetical hybrid rock music history museum. The primary goal of the website was to offer prospective visitors an immersive experience, enabling them to delve into the world of Rock and Roll music while planning their museum tour.
 
 **Methods**<br>
 Personas, Journey Mapping, Conceptual Model, Prototyping (Axure RP)
 
-*If you want to skip the case study and jump to the prototype,* click <a href="https://gx1ci9.axshare.com" target="_blank" style="color: #6fb4ca;">here</a>!
+*If you want to skip the case study and jump to the prototype,* click <a href="https://gx1ci9.axshare.com" target="_blank" style="color: #545ed4;">here</a>!
 
 <br>
 
@@ -36,9 +36,7 @@ A user journey map was created for one of our personas, **Mark**, in order to un
 
 ![Journey Map 1]({{site.baseurl}}/images/journeymap_1.png)
 
-
 ![Journey Map 2]({{site.baseurl}}/images/journeymap_2.png)
-
 
 ![Journey Map 3]({{site.baseurl}}/images/journeymap_3.png)
 
@@ -62,9 +60,9 @@ Before developing a prototype, a user flow diagram was created for users' main t
 <br>
 
 ## Prototype
-The prototype followed the *object-oriented* design with the major objects of Exhibits, Events, and Tours. You can access the interactive prototype <a href="https://gx1ci9.axshare.com" target="_blank" style="color: #6fb4ca;">here</a> or view some of the main screens below.
+The prototype followed the *object-oriented* design with the major objects of Exhibits, Events, and Tours. You can access the interactive prototype <a href="https://gx1ci9.axshare.com" target="_blank" style="color: #545ed4;">here</a> or view some of the main screens below.
 
-The **home page** features special exhibits and upcoming events, which can be directly added to the the user's tour plan via 'Add to Plan' buttons. 
+The **home page** features special exhibits and upcoming events, which can be directly added to the user's tour plan via 'Add to Plan' buttons. 
 
 ![Home Page]({{site.baseurl}}/images/home_page.png)
 
@@ -85,8 +83,8 @@ After creating the plan or manually adding the exhibits/events to the plan, user
 <br>
 
 ### Learning
-* **Keep the grammar of the product in mind while designing the product.** <br>
-While prototyping, I found it really helpful to look at the conceptual model and grammar as a guide when I felt overwhelmed or lost with my design. It reminded me of some necessary features/actions that I was missing in the design and make sure of the <mark style="background-color: #FFE599">consistency of language</mark> within the design.
+* **Keep the grammar of the product in mind throughout the design process.** <br>
+I found it really helpful to refer to the conceptual model and grammar and use them as a guide when I felt disoriented or lost while crafting prototypes. They not only reminded me of some necessary features/actions that were missing in my design but also ensured <mark style="background-color: #FFE599">consistency of language</mark> across the interface.
 
-* **Don't focus too much on the details.** <br>
-During the design phase, I sometimes found myself spending hours just to decide on which colors or fonts to use for the UI. I learned that it is important to step back and focus more on how the prototype would guide the users through the <mark style="background-color: #FFE599">user flows</mark>.
+* **Avoid fixating on details.** <br>
+In the initial design phase, I occasionally found myself investing hours just to decide on which colors or fonts to use for the UI. I learned the significance of taking a step back and prioritizing how the prototype would guide the users through their intended <mark style="background-color: #FFE599">user flows</mark> within the interface.
