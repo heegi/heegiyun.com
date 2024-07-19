@@ -20,7 +20,7 @@ menu__settings:
 # Hero Settings
 hero:
   hero__title: Hi there!
-  hero__description: I'm a <b style="color:#545ed4">research-focused UX Designer</b> dedicated to solving complex problems through the lens of Psychology and human-centered design.<br><br> I'm currently a <b>Human Factors Engineer</b> at <b>General Dynamics IT</b>, delivering a wide range of design and research work for the Centers for Medicare & Medicaid Services (CMS) client.
+  hero__description: I'm a <b style="color:#545ed4">UX Designer</b> dedicated to solving complex problems through the lens of Psychology and empathetic research.<br><br> I'm currently a <b>Human Factors Engineer</b> at <b>General Dynamics Information Technology</b>, delivering a wide range of design and research work for the Centers for Medicare & Medicaid Services (CMS) client.
 
 
 #-------------------------------
