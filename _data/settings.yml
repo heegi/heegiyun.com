@@ -13,14 +13,14 @@ menu__settings:
     - title: 'About'
       url: '/about/'
     - title: 'Resume'
-      url: '/files/Heegi_Resume_2025.pdf'
+      url: '/files/Heegi_Resume.pdf'
 
 
 #-------------------------------
 # Hero Settings
 hero:
   hero__title: Hi there!
-  hero__description: I'm a <b style="color:#545ed4">UX Designer</b> dedicated to uncovering user and business needs, transforming them into <b style="color:#545ed4">intuitive, user-centered design solutions</b>.<br><br> Currently, I work as a <b>Human Factors Engineer</b> at <b>General Dynamics Information Technology</b>, delivering comprehensive design and research works for the Centers for Medicare & Medicaid Services (CMS) client.
+  hero__description: I'm a <b style="color:#545ed4">UX Designer</b> dedicated to uncovering user and business needs to craft <b style="color:#545ed4">intuitive, user-centered design solutions</b>.<br><br> Currently, I work as a <b>Human Factors Engineer</b> at <b>General Dynamics Information Technology</b>, delivering comprehensive design and research works for the Centers for Medicare & Medicaid Services (CMS) client.
 
 
 #-------------------------------
