@@ -95,7 +95,7 @@ Present selected held items on the Pokémon's page, and allow users to navigate 
 
 ## Learnings
 * **Stay objective** <br>
-While video games are unique in a way that users can experience a wide range of emotions and I spent a lot of time familiarizing myself with the product, I realized the significant importance of prioritizing <mark style="background-color: #FFE599">users</mark> and <mark style="background-color: #FFE599">heuristics</mark> over my personal opinions and biases.
+While video games are unique in a way that users can experience a wide range of emotions and I spent a lot of time familiarizing myself with the product, I realized the significant importance of <mark style="background-color: #FFE599"> prioritizing users and heuristics</mark> over my personal opinions and biases.
 
 * **Use other additional methodologies to prioritized major usability issues** <br>
 During my heuristic evaluations, I noticed a tendency to get caught up with minor design issues rather than focusing on the more impactful issues that directly affected the user experience. Using data about the <mark style="background-color: #FFE599">users</mark> and <mark style="background-color: #FFE599">use context</mark> from the user inquiries (i.e. survey and review analyses) not only allowed me to narrow down the focus of my evaluation but also facilitated the validation of my evaluation against real user experiences.
